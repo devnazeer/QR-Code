@@ -19,6 +19,16 @@ body {
   padding-bottom: 10px;
   font-family: sans-serif;
 }
+.standots {
+  color: #0d2237;
+  margin: 0;
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 14px;
+}
+.link {
+  color: #0d2237;
+}
 .imgContainer {
   width: 100%;
   margin-top: 20px;
